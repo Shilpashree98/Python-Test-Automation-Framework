@@ -4,7 +4,7 @@ import HtmlTestRunner
 
 from SeleniumPrgms.POMProjectFlipcart.Pages.AddToCartPage import Addtocart
 from SeleniumPrgms.POMProjectFlipcart.Pages.CheckoutPage import Checkout
-from SeleniumPrgms.POMProjectFlipcart.Pages.LoginPage import loginPopup
+from SeleniumPrgms.POMProjectFlipcart.Pages.LoginPage import loginpopup
 from SeleniumPrgms.POMProjectFlipcart.Pages.HomePage import Search
 from SeleniumPrgms.POMProjectFlipcart.Pages.Logoutpage import Logout
 
